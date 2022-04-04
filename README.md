@@ -7,7 +7,7 @@ there are are only a few rules you have to obide by when using <3:
 3. no spaces,dashes, or any exotic characters
     - please stick to latin or latin-like characters
  
-## here are some examples on what not to do
+## incorrect usage
 ![image](https://user-images.githubusercontent.com/68492220/161467316-ef9df1e5-9ef4-4390-82bf-bcb3d61b43e9.png)
 
 do not put a space before <3
@@ -27,3 +27,9 @@ only 1 word is allowed in your name
 ![image](https://user-images.githubusercontent.com/68492220/161467418-59156bcb-4dde-424d-b574-4c4aff42d69a.png)
 
 do not use numbers in your name
+
+## correct usage
+![image](https://user-images.githubusercontent.com/68492220/161470029-604139f3-9713-4dc5-889f-af0220c044f6.png)
+
+##it's that easy!!!!!
+have fun
